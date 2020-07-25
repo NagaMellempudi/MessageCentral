@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{09204145-E87C-4F01-8B7B-C5A750878CF6}|Default">
-  <MonoDevelop.Ide.ItemProperties.MessageCentral.UI FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MessageCentral.Services FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MessageCentral.UI FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
 </Properties>

@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageCentral.UI", "MessageCentral.UI\MessageCentral.UI.csproj", "{09204145-E87C-4F01-8B7B-C5A750878CF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageCentral.Services", "MessageCentral.Services\MessageCentral.Services.csproj", "{FDB5E59B-D3E9-4494-9440-540357175CAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{09204145-E87C-4F01-8B7B-C5A750878CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09204145-E87C-4F01-8B7B-C5A750878CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09204145-E87C-4F01-8B7B-C5A750878CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDB5E59B-D3E9-4494-9440-540357175CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB5E59B-D3E9-4494-9440-540357175CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB5E59B-D3E9-4494-9440-540357175CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB5E59B-D3E9-4494-9440-540357175CAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
