@@ -1,5 +1,18 @@
-﻿<Properties StartupConfiguration="{09204145-E87C-4F01-8B7B-C5A750878CF6}|Default">
-  <MonoDevelop.Ide.ItemProperties.MessageCentral.Services FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.MessageCentral.UI FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+﻿<Properties StartupConfiguration="{FDB5E59B-D3E9-4494-9440-540357175CAC}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MessageCentral" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MessageCentral.Services FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
