@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageCentral.Services", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageCentral.UI", "MessageCentral.UI\MessageCentral.UI.csproj", "{847380E2-41E9-4DE2-AED9-C88819FC0A97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageCentral.Tests", "MessageCentral.Tests\MessageCentral.Tests.csproj", "{CFD62E6C-67AD-46FB-A24C-5FABDB5C434F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{847380E2-41E9-4DE2-AED9-C88819FC0A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{847380E2-41E9-4DE2-AED9-C88819FC0A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{847380E2-41E9-4DE2-AED9-C88819FC0A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD62E6C-67AD-46FB-A24C-5FABDB5C434F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD62E6C-67AD-46FB-A24C-5FABDB5C434F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD62E6C-67AD-46FB-A24C-5FABDB5C434F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD62E6C-67AD-46FB-A24C-5FABDB5C434F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

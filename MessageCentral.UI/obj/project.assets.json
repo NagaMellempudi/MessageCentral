@@ -1605,7 +1605,7 @@
       "outputPath": "/Users/nagamellempudi/source/MessageCentral/MessageCentral.UI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nagamellempudi/.config/NuGet/NuGet.Config"
+        "/Users/nagamellempudi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
